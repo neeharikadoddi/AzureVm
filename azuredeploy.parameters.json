@@ -6,7 +6,7 @@
       "value": "azureadmin"
     },
     "adminPassword": {
-      "value": "azure@123456"
+      "value": "azure123456"
     },
     "dnsLabelPrefix": {
       "value": "azureadmin"
